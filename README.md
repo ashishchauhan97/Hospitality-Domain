@@ -12,14 +12,14 @@ This project is part of data analytics bootcamp at "codebasics"
 * Optimized Revenue Pricing Strategies: Data-driven approach allowed for dynamic pricing, resulting in higher revenues and better market positioning.
 # Skills learnt from project
 # key metrices learnt:
-1.revenue
-2.RevPAR
-3.ADR
-4.DBRN
-5.DSRN
-6.DURN
-7.Realisation %
-8.occupancy and cancellation %
+1. revenue
+2. RevPAR
+3. ADR
+4. DBRN
+5. DSRN
+6. DURN
+7. Realisation %
+8. occupancy and cancellation %
 # power BI fundamentals
 1.data cleaning and snowflake schema modelling
 2.learnt about page navigation, tool tip,conditional formatting
